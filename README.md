@@ -1,4 +1,4 @@
-# A Rubik's cube stopwatch (with InfluxDb)
+# A Tkinter Rubik's cube stopwatch (with InfluxDb)
 A stopwatch designed to be used to time a rubik's cube solving and send the results to a InfluxDB database. Used as a i3blocks widget. 
 
 Be sure to have tkinter installed (`python3`):
