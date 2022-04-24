@@ -42,7 +42,7 @@ class RubiksCubeStopWatch(tk.Tk):
         # Create the label to display time
         font_size = Font(self, size=12)
         self.label = tk.Label(
-            self, text="Press escape to start the stopwatch", bg=YELLOWISH, font=font_size
+            self, text="Press space to start the stopwatch", bg=YELLOWISH, font=font_size
         )
         self.label.pack()
         # Place the label in the center always
